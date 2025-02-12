@@ -51,3 +51,6 @@
 </div>
 
 ###
+<img src="https://raw.githubusercontent.com/CarolinaPorto1007/CarolinaPorto1007/output/snake.svg" alt="Snake animation" />
+
+###
